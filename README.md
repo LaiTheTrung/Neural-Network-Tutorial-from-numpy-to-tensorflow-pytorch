@@ -15,3 +15,4 @@ Before you begin, make sure you have the following prerequisites in place:
 
 * Python 3.x
 * NumPy (You can install it using pip install numpy)
+* Pandas (pip install pandas)
