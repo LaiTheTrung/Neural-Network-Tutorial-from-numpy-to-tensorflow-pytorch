@@ -16,3 +16,26 @@ Before you begin, make sure you have the following prerequisites in place:
 * Python 3.x
 * NumPy (You can install it using pip install numpy)
 * Pandas (pip install pandas)
+# Getting Started
+![image](https://github.com/LaiTheTrung/neural_network_numpy/assets/100464098/f3738863-c309-4d99-a7d7-3ec568276b4d)
+
+Neural network inspired is a term used to describe anything that is inspired by the structure or function of the human brain. This can include artificial neural networks (ANNs), which are computer programs that are designed to mimic the way the brain processes information.
+
+![image](https://github.com/LaiTheTrung/neural_network_numpy/assets/100464098/28e6d998-eabb-4945-a7b5-4aabe49ff6d5)
+
+
+ANNs have been used to solve a wide range of problems, including image classification, natural language processing, and machine translation. They are also used in many commercial products, such as self-driving cars and facial recognition software.
+
+
+Consider using Machine Learning when:
+* Have a complex task
+* Have a large amount of data
+* Have a lot of variables
+* But no existing formula or equation
+
+
+In addition to the examples above, neural network inspired research is also being conducted in a variety of other areas, such as:
+
+Brain-computer interfaces that allow people to control computers with their minds.
+Neuromorphic computing hardware that is designed to mimic the structure and function of the brain.
+Artificial intelligence that can learn and adapt like humans.
