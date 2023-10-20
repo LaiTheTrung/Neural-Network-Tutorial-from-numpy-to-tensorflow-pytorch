@@ -18,6 +18,8 @@ Before you begin, make sure you have the following prerequisites in place:
 * Python 3.x
 * NumPy (You can install it using pip install numpy)
 * Pandas (pip install pandas)
+* keras (pip install keras)
+
 # Getting Started
 ![image](https://github.com/LaiTheTrung/neural_network_numpy/assets/100464098/f3738863-c309-4d99-a7d7-3ec568276b4d)
 
