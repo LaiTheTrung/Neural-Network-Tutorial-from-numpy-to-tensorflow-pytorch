@@ -46,15 +46,12 @@ This tutorial is divided into the following sections:
 
 1. ***Introduction to Neural Networks*** 
 
-A brief introduction to what neural networks are and how they work.
+A brief introduction to what neural networks are and how they work. Step-by-step guide to creating a feedforward neural network using NumPy.
 
-2. ***Data Preparation*** 
+2. ***Improve the ANN model*** 
 
-How to prepare your data for training a neural network.
+Learn about some method that can drive performance and generate good results for a neural network.
 
-3. ***Building a Neural Network from Scratch*** 
-
-Step-by-step guide to creating a feedforward neural network using NumPy.
 
 4. ***Training Your Neural Network*** 
 
@@ -63,6 +60,7 @@ Explains how to train the neural network using backpropagation and gradient desc
 5. ***Testing and Evaluation*** 
 
 How to test the trained neural network and evaluate its performance.
+
 6. ***Fine-tuning and Improvements*** 
 
 Tips on fine-tuning the network and potential improvements.
