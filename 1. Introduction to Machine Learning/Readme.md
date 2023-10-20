@@ -13,8 +13,9 @@ one note that during the whole tutorial, I assume that you have a basic foundati
 # The content include
 * **Ethical and Law:** Every Prof said these are neccessary, I approve that,  But sometimes, we don't like the right path.:ghost: :ghost: :ghost:, But just take a look at it, Maybe in the future you will be a top 1 AI reseacher :flushed:, and I don't want to see a Robot :robot: said that he will destroy the word :skull: :skull::see_no_evil:
 
-* **NeuralNetwork part1:** give you some overall concept of machine learning and it's subset , Deep learning, just a browse to understand about the neccessary and history of the thing what people call AI. And you will see how the AI grow up 
-* **NeuralNetwork part2:** This is the start of building a neural network, its help you to understand the fundamantal math inside a Neural network.
+* **NeuralNetwork part1:** give you some overall concept of machine learning and it's subset , Deep learning, just a browse :eye_speech_bubble: to understand about the neccessary and history of the thing what people call AI. And you will see the AI is not dangerous anymore, they are just so cool  :boom::boom:
+  
+* **NeuralNetwork part2:** This is the start of building a neural network,:mechanical_arm::mechanical_arm: its help you to understand the fundamantal math inside a Neural network.
 # Project:
 try to build a neural network by yourself using numpy. 
 **the task is:**
