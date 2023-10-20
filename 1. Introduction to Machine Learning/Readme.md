@@ -1,5 +1,7 @@
 :flushed: Hi guys, I'm happy because you're here, and more happy if you pretend to take a look at my tutorial :sparkling_heart: :sparkling_heart:
 
+to support me more, please don't copy my code,:pensive: :pensive:  you can downdload it for using on your local computer. :kiss:
+
 :sunglasses:This is the first part of the tutorial, the part include 3 chapter, I put the content in the .pdf file.
 
 one note that during the whole tutorial, I assume that you have a basic foundation in python. In case you are a newbie,:ghost: please go back to learn something about python, include:
@@ -29,4 +31,4 @@ and the notebook demo for the example is: https://github.com/LaiTheTrung/Neural-
 
 Moreover, if you face with the problem that the test set performance is so bad while there is a amazing good job at the train set. And you're curious about the solution, the next part will help you, but I leave the code in the ***MorePro_apply_for_mnist_NNW*** folder. 
 
-If you finsih all the things,:partying_face: congratulation :hugs: :100: You're cool :cowboy_hat_face:
+If you finsih all the things,:partying_face: congratulation :hugs: :100: You're cool :cowboy_hat_face::kiss:
