@@ -45,23 +45,23 @@ Artificial intelligence that can learn and adapt like humans.
 This tutorial is divided into the following sections:
 
 1. ***Introduction to Neural Networks*** 
+In this section, you will embark on your journey into the fascinating world of neural networks. Gain a fundamental understanding of what neural networks are and how they function as the building blocks of artificial intelligence. Discover the core concepts that form the foundation of this exciting technology. Step by step building an numpy NN ( Neural Network).
 
-A brief introduction to what neural networks are and how they work. Step-by-step guide to creating a feedforward neural network using NumPy.
 
 2. ***Improve the ANN model*** 
+Once you have a grasp of the basics, this section delves into enhancing the performance and speed of your Artificial Neural Network (ANN) mode
 
-Learn about some method that can drive performance and generate good results for a neural network.
 
 
-4. ***Training Your Neural Network*** 
+4. ***Regression solving using Neural Networks*** 
+This section explores how to leverage the power of neural networks for regression problems. Dive into the intricacies of using neural networks to predict continuous values, such as stock prices, housing prices, or any other numeric data. You'll learn how to structure and train neural networks specifically for regression tas
 
-Explains how to train the neural network using backpropagation and gradient descent.
 
-5. ***Testing and Evaluation*** 
+5. ***Step by Step for an End to End Machine Learning Project*** 
+Machine learning projects often require a systematic approach. In this section, you'll be guided through the step-by-step process of completing an end-to-end machine learning project. From data collection to model deployment, you'll gain insights into each stage of a comprehensive machine learning project.
 
-How to test the trained neural network and evaluate its performance.
 
 6. ***Fine-tuning and Improvements*** 
+Building on your foundational knowledge, this section provides advanced tips and techniques for fine-tuning your models. Explore strategies for further improving the performance of your neural networks, including hyperparameter tuning, regularization, and other best practices for achieving state-of-the-art results
 
-Tips on fine-tuning the network and potential improvements.
 Each section contains detailed explanations, code examples, and practical exercises to reinforce your understanding.
