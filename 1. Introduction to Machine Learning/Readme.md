@@ -1,6 +1,8 @@
-Hi guys, this is the first part of the tutorial, the part include 3 chapter, I put the content in the .pdf file.
+:flushed: Hi guys, I'm happy because you're here, and more happy if you pretend to take a look at my tutorial :sparkling_heart: :sparkling_heart:
 
-one note that during the whole tutorial, I assume that you have a basic foundation in python. In case you are a newbie, please go back to learn something about python, include:
+:sunglasses:This is the first part of the tutorial, the part include 3 chapter, I put the content in the .pdf file.
+
+one note that during the whole tutorial, I assume that you have a basic foundation in python. In case you are a newbie,:ghost: please go back to learn something about python, include:
 * python syntax
 * numpy library
 * matplotlib to draw graph
@@ -20,3 +22,5 @@ Don't forget the Weight_Intialize, Add_bias, ForwardPro, BackwardPro, Loss, acti
 than build a train function with input is number of epochs and learning rate, when you call NeuralNet().train() it start to training your model.
 
 build a test function to do the testing on your testing set 
+
+If you finsih all the things,:partying_face: congratulation :hugs: :100: You're cool :cowboy_hat_face:
