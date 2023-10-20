@@ -31,4 +31,4 @@ and the notebook demo for the example is: https://github.com/LaiTheTrung/Neural-
 
 Moreover, if you face with the problem that the test set performance is so bad while there is a amazing good job at the train set. And you're curious about the solution, the next part will help you, but I leave the code in the ***MorePro_apply_for_mnist_NNW*** folder. 
 
-If you finsih all the things,:partying_face: congratulation :hugs: :100: You're cool :cowboy_hat_face::kiss:
+If you finish all the things,:partying_face: congratulation :hugs: :100: You're cool :cowboy_hat_face::kiss:
