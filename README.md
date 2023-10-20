@@ -1,7 +1,7 @@
 Hi guys, before digging to the AI brain, :shipit: please give me a start for all effort I spent for this git 
 # Neural Network Tutorial Using NumPy/TensorFlow/pytorch
 This repository contains a beginner-friendly tutorial on how to build a neural network from scratch using Python and the NumPy library. This tutorial aims to help you understand the fundamentals of neural networks and their implementation. By the end of this tutorial, you will have a basic understanding of feedforward neural networks and the knowledge to create your own simple neural network.
-
+Moreover, I have updated my own miniprojects with explaination in this git, hope you will find the intersting in AI !!! 
 # Table of Contents
 * Prerequisites
 * Getting Started
@@ -46,15 +46,19 @@ This tutorial is divided into the following sections:
 1. ***Introduction to Neural Networks*** 
 
 A brief introduction to what neural networks are and how they work.
+
 2. ***Data Preparation*** 
 
 How to prepare your data for training a neural network.
+
 3. ***Building a Neural Network from Scratch*** 
 
 Step-by-step guide to creating a feedforward neural network using NumPy.
+
 4. ***Training Your Neural Network*** 
 
 Explains how to train the neural network using backpropagation and gradient descent.
+
 5. ***Testing and Evaluation*** 
 
 How to test the trained neural network and evaluate its performance.
