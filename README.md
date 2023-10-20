@@ -1,4 +1,6 @@
 Hi guys, before digging to the AI brain, :shipit: please give me a start :star: for all effort I spent for this git 
+
+The progress is on going, I will upload the file 1 part/week
 # Neural Network Tutorial Using NumPy/TensorFlow/pytorch
 This repository contains a beginner-friendly tutorial on how to build a neural network from scratch using Python and the NumPy library. This tutorial aims to help you understand the fundamentals of neural networks and their implementation. By the end of this tutorial, you will have a basic understanding of feedforward neural networks and the knowledge to create your own simple neural network.
 
@@ -18,6 +20,8 @@ Before you begin, make sure you have the following prerequisites in place:
 * Python 3.x
 * NumPy (You can install it using pip install numpy)
 * Pandas (pip install pandas)
+* keras (pip install keras)
+
 # Getting Started
 ![image](https://github.com/LaiTheTrung/neural_network_numpy/assets/100464098/f3738863-c309-4d99-a7d7-3ec568276b4d)
 
@@ -45,25 +49,36 @@ Artificial intelligence that can learn and adapt like humans.
 This tutorial is divided into the following sections:
 
 1. ***Introduction to Neural Networks*** 
+In this section, you will embark on your journey into the fascinating world of neural networks. Gain a fundamental understanding of what neural networks are and how they function as the building blocks of artificial intelligence. Discover the core concepts that form the foundation of this exciting technology. Step by step building an numpy NN ( Neural Network).
 
-A brief introduction to what neural networks are and how they work.
 
-2. ***Data Preparation*** 
+2. ***Improve the ANN model*** 
+Once you have a grasp of the basics, this section delves into enhancing the performance and speed of your Artificial Neural Network (ANN) mode.
 
-How to prepare your data for training a neural network.
 
-3. ***Building a Neural Network from Scratch*** 
 
-Step-by-step guide to creating a feedforward neural network using NumPy.
+4. ***Regression solving using Neural Networks*** 
+This section explores how to leverage the power of neural networks for regression problems. Dive into the intricacies of using neural networks to predict continuous values, such as stock prices, housing prices, or any other numeric data. You'll learn how to structure and train neural networks specifically for regression taskes.
 
-4. ***Training Your Neural Network*** 
+5. ***Convolution Neural Network***
+In this section, you will dive into the world of Convolutional Neural Networks (CNNs), a specialized type of neural network designed for image and video analysis. Discover the architecture, operations, and applications of CNNs, and learn how to create and train your own numpy CNN models for tasks such as image classification and object detection.
 
-Explains how to train the neural network using backpropagation and gradient descent.
+6. ***Recurent Neural Network***
+This section introduces Recurrent Neural Networks (RNNs), a class of neural networks designed for sequential data analysis. Learn how to create and train your own numpy RNN models for tasks like natural language processing, time series prediction, and sequence generation.
 
-5. ***Testing and Evaluation*** 
+7. ***Step by Step for an End to End Machine Learning Project*** 
+Machine learning projects often require a systematic approach. In this section, you'll be guided through the step-by-step process of completing an end-to-end machine learning project. From data collection to model deployment, you'll gain insights into each stage of a comprehensive machine learning project.
 
-How to test the trained neural network and evaluate its performance.
-6. ***Fine-tuning and Improvements*** 
+8. ***Tensorflow approach for building AI model***
+Building ANN, CNN, RNN using tensorflow.
 
-Tips on fine-tuning the network and potential improvements.
+9. ***Pytorch approach for building AI model***
+Building ANN, CNN, RNN using pytorch.
+
+10. ***Transfer learning and Fine-Tuning***
+Learn about the fundamental of transferlearning and fine tuning, Also update for you some state-of-art model using in taskes related to Image processing, NLP, Time series.
+
+11. ***Fine-tuning Improvements*** 
+Building on your foundational knowledge, this section provides advanced tips and techniques for fine-tuning your models. Explore strategies for further improving the performance of your neural networks, including hyperparameter tuning, regularization, and other best practices for achieving state-of-the-art results.
+
 Each section contains detailed explanations, code examples, and practical exercises to reinforce your understanding.
