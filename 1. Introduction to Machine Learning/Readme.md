@@ -11,8 +11,9 @@ one note that during the whole tutorial, I assume that you have a basic foundati
 * object oriented programming
 * you should distinguish the difference between CPU and GPU.I just want you to take a browse through the explantion why people often use GPU in AI fields instead of CPU.
 # The content include
-* **Ethical and Law:** Every Prof said these are neccessary, I approve that,  But sometimes, we don't like the right path.:ghost: :ghost: :ghost:, But just take a look at the rule before start the game.
-* **NeuralNetwork part1:** give you some overall concept of machine learning and it's subset , Deep learning, just a browse to understand about the neccessary and history of the thing what people call AI.
+* **Ethical and Law:** Every Prof said these are neccessary, I approve that,  But sometimes, we don't like the right path.:ghost: :ghost: :ghost:, But just take a look at it, Maybe in the future you will be a top 1 AI reseacher :flushed:, and I don't want to see a Robot :robot: said that he will destroy the word :skull: :skull::see_no_evil:
+
+* **NeuralNetwork part1:** give you some overall concept of machine learning and it's subset , Deep learning, just a browse to understand about the neccessary and history of the thing what people call AI. And you will see how the AI grow up 
 * **NeuralNetwork part2:** This is the start of building a neural network, its help you to understand the fundamantal math inside a Neural network.
 # Project:
 try to build a neural network by yourself using numpy. 
