@@ -42,22 +42,22 @@ Artificial intelligence that can learn and adapt like humans.
 # Tutorial Overview
 This tutorial is divided into the following sections:
 
-1. Introduction to Neural Networks
+1. *** Introduction to Neural Networks *** 
 
 A brief introduction to what neural networks are and how they work.
-1. Data Preparation
+2. *** Data Preparation *** 
 
 How to prepare your data for training a neural network.
-1. Building a Neural Network from Scratch
+3. *** Building a Neural Network from Scratch *** 
 
 Step-by-step guide to creating a feedforward neural network using NumPy.
-1. Training Your Neural Network
+4. *** Training Your Neural Network *** 
 
 Explains how to train the neural network using backpropagation and gradient descent.
-1. Testing and Evaluation
+5. ***  Testing and Evaluation *** 
 
 How to test the trained neural network and evaluate its performance.
-1. Fine-tuning and Improvements
+6. *** Fine-tuning and Improvements *** 
 
 Tips on fine-tuning the network and potential improvements.
 Each section contains detailed explanations, code examples, and practical exercises to reinforce your understanding.
