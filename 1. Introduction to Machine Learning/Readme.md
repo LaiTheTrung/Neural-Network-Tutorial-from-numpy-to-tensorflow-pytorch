@@ -19,8 +19,10 @@ create a class NeuralNet() with input is the training set (X,Y), the number of l
 
 Don't forget the Weight_Intialize, Add_bias, ForwardPro, BackwardPro, Loss, activation_function is the mandatory of Neural Net.
 
-than build a train function with input is number of epochs and learning rate, when you call NeuralNet().train() it start to training your model.
+Then you should build a train function with input is number of epochs and learning rate, when you call NeuralNet().train() it start to training your model.
 
-build a test function to do the testing on your testing set 
+Finally, build a test function to do the testing on your testing set 
+
+I leave the example for reference in the notbook:S
 
 If you finsih all the things,:partying_face: congratulation :hugs: :100: You're cool :cowboy_hat_face:
