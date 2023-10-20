@@ -1,6 +1,6 @@
 Hi guys, this is the first part of the tutorial, the part include 3 chapter, I put the content in the .pdf file.
 
-one note that during the whole tutorial, I assume that you have a basic foundation in python. In case you are a newbie, please go back to learning something about python, include:
+one note that during the whole tutorial, I assume that you have a basic foundation in python. In case you are a newbie, please go back to learn something about python, include:
 * python syntax
 * numpy library
 * matplotlib to draw graph
