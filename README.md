@@ -57,14 +57,15 @@ Once you have a grasp of the basics, this section delves into enhancing the perf
 This section explores how to leverage the power of neural networks for regression problems. Dive into the intricacies of using neural networks to predict continuous values, such as stock prices, housing prices, or any other numeric data. You'll learn how to structure and train neural networks specifically for regression tas
 
 5. ***Convolution Neural Network***
-6. ***Recurent Neural Network***
+In this section, you will dive into the world of Convolutional Neural Networks (CNNs), a specialized type of neural network designed for image and video analysis. Discover the architecture, operations, and applications of CNNs, and learn how to create and train your own numpy CNN models for tasks such as image classification and object detection.
+7. ***Recurent Neural Network***
 
-7. ***Step by Step for an End to End Machine Learning Project*** 
+8. ***Step by Step for an End to End Machine Learning Project*** 
 Machine learning projects often require a systematic approach. In this section, you'll be guided through the step-by-step process of completing an end-to-end machine learning project. From data collection to model deployment, you'll gain insights into each stage of a comprehensive machine learning project.
 
-8. ***Tensorflow approach for building AI model***
-9. ***Pytorch approach for building AI model***
-10. ***Transfer learning and Fine-Tuning**
+9. ***Tensorflow approach for building AI model***
+10. ***Pytorch approach for building AI model***
+11. ***Transfer learning and Fine-Tuning***
 
 6. ***Fine-tuning Improvements*** 
 Building on your foundational knowledge, this section provides advanced tips and techniques for fine-tuning your models. Explore strategies for further improving the performance of your neural networks, including hyperparameter tuning, regularization, and other best practices for achieving state-of-the-art results
