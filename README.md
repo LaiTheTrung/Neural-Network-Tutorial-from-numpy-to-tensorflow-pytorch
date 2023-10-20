@@ -58,16 +58,23 @@ This section explores how to leverage the power of neural networks for regressio
 
 5. ***Convolution Neural Network***
 In this section, you will dive into the world of Convolutional Neural Networks (CNNs), a specialized type of neural network designed for image and video analysis. Discover the architecture, operations, and applications of CNNs, and learn how to create and train your own numpy CNN models for tasks such as image classification and object detection.
-7. ***Recurent Neural Network***
 
-8. ***Step by Step for an End to End Machine Learning Project*** 
+6. ***Recurent Neural Network***
+This section introduces Recurrent Neural Networks (RNNs), a class of neural networks designed for sequential data analysis. Learn how to create and train your own numpy RNN models for tasks like natural language processing, time series prediction, and sequence generation.
+
+7. ***Step by Step for an End to End Machine Learning Project*** 
 Machine learning projects often require a systematic approach. In this section, you'll be guided through the step-by-step process of completing an end-to-end machine learning project. From data collection to model deployment, you'll gain insights into each stage of a comprehensive machine learning project.
 
-9. ***Tensorflow approach for building AI model***
-10. ***Pytorch approach for building AI model***
-11. ***Transfer learning and Fine-Tuning***
+8. ***Tensorflow approach for building AI model***
+Building ANN, CNN, RNN using tensorflow
 
-6. ***Fine-tuning Improvements*** 
+9. ***Pytorch approach for building AI model***
+Building ANN, CNN, RNN using pytorch
+
+10. ***Transfer learning and Fine-Tuning***
+Learn about the fundamental of transferlearning and fine tuning, Also update for you some state-of-art model using in taskes related to Image processing, NLP, Time series.
+
+11. ***Fine-tuning Improvements*** 
 Building on your foundational knowledge, this section provides advanced tips and techniques for fine-tuning your models. Explore strategies for further improving the performance of your neural networks, including hyperparameter tuning, regularization, and other best practices for achieving state-of-the-art results
 
 Each section contains detailed explanations, code examples, and practical exercises to reinforce your understanding.
