@@ -2,16 +2,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 class ShallowNeuralNet():
 	def __init__(self, Xs, Ys, input_size, hidden_size, output_size):
-		self.Xs = Xs #(2000, 784) List(nparray)
-		self.Ys = Ys #(2000, 10) List(nparray)
-		self.input_size = input_size
-		self.hidden_size = hidden_size
-		self.output_size = output_size
+		self.Xs = Xs #(2000, 784) List(nparray) for example
+		self.Ys = Ys #(2000, 10) List(nparray) for example
+		self.input_size = input_size # 784 for example
+		self.hidden_size = hidden_size # 81 for example
+		self.output_size = output_size # 10 for example
 		self.w1 = self.GenerateWeight(input_size, hidden_size) #(785, 81)
 		self.w2 = self.GenerateWeight(hidden_size, output_size) #(82, 10)
 
 	def GenerateWeight(self, input_size, output_size):
-		return np.random.rand(output_size, input_size+1).transpose() -0.5
+		return np.random.rand(output_size, input_size+1).transpose() -0.5 # range [-0.5;0.5)
 
 	def Forward(self, x, w1, w2):
 		a1 = x #(1,785)
