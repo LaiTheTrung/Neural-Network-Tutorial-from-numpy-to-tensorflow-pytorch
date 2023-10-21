@@ -7,8 +7,8 @@ class ShallowNeuralNet():
 		self.input_size = input_size
 		self.hidden_size = hidden_size
 		self.output_size = output_size
-		# self.w1 = self.GenerateWeight(input_size, hidden_size) #(785, 81)
-		# self.w2 = self.GenerateWeight(hidden_size, output_size) #(82, 10)
+		self.w1 = self.GenerateWeight(input_size, hidden_size) #(785, 81)
+		self.w2 = self.GenerateWeight(hidden_size, output_size) #(82, 10)
 
 	def GenerateWeight(self, input_size, output_size):
 		return np.random.rand(output_size, input_size+1).transpose() -0.5
@@ -50,7 +50,7 @@ class ShallowNeuralNet():
 	def MSE(self, pred, y):
 		return np.mean(np.power(pred - y,2))
 	
-	def train(self, epochs, w1, w2, lr):
+	def train(self, epochs, lr):
 		acc = []
 		losses = []
 		for epoch in range(epochs):
@@ -61,15 +61,15 @@ class ShallowNeuralNet():
 			for i in range(len(self.Xs)):
 				x = self.Xs[i]
 				y = self.Ys[i]
-				pred = self.Forward(x, w1, w2)
+				pred = self.Forward(x, self.w1, self.w2)
 				if pred.argmax() == y.argmax():
 					correct_case+=1
 				l.append(self.MSE(pred, y))
-				delta1, delta2 = self.Backward(x, y, w1, w2)
+				delta1, delta2 = self.Backward(x, y, self.w1, self.w2)
 				cap_delta1+= delta1
 				cap_delta2+= delta2
-			w1 = w1 - (lr*(cap_delta1))
-			w2 = w2 - (lr*(cap_delta2))
+			self.w1 = self.w1 - (lr*(cap_delta1))
+			self.w2 = self.w2 - (lr*(cap_delta2))
 			cur_acc = (correct_case/len(self.Xs))*100
 			acc.append(cur_acc)
 			mean_loss = np.array(l).mean()
@@ -80,7 +80,7 @@ class ShallowNeuralNet():
 				_loss = np.array(losses[-5:]).mean()
 				print(f"Epoch {epoch + 1}: AVG ACC during {freq} epochs: {avg_acc}")
 				print(f"Epoch {epoch + 1}: Loss: {_loss}")
-		return acc, losses, w1, w2
+		return acc, losses
 	
 
 class Multi_layer_NeuralNet:
