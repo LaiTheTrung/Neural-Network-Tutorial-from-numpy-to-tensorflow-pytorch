@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 class ShallowNeuralNet():
 	def __init__(self, Xs, Ys, input_size, hidden_size, output_size):
-		self.Xs = Xs #(2000, 784) List(nparray) for example
+		self.Xs = Xs #(2000, 784) List(nparray) for example with 2000 is the number of samples
 		self.Ys = Ys #(2000, 10) List(nparray) for example
 		self.input_size = input_size # 784 for example
 		self.hidden_size = hidden_size # 81 for example
